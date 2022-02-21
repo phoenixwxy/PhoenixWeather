@@ -12,7 +12,7 @@ class PhoenixWeatherApplication : Application() {
         lateinit var context: Context
 
         // TODO need caiyunapp's token
-        const val TOKEN = ""
+        const val TOKEN = "F77eHAJK8O36HkxC"
     }
 
     override fun onCreate() {
